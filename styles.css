@@ -76,7 +76,7 @@ Add transition to containers so they can push in and out.
     text-align: center;
     padding: 0.5em 2em 0;
     border-bottom: 1px solid #eee;
-    max-height: 130px;
+    max-height: 200px;
   }
 
   .header h1 {
