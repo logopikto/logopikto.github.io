@@ -15,6 +15,10 @@ body {
   padding: 2px
 }
 
+.banner {
+  max-height: 400px
+}
+
 .logo-container {
   display: flex; /* Magic begins */
   flex-direction: column;
@@ -58,14 +62,14 @@ Add transition to containers so they can push in and out.
    */
 
   .logo {
-    max-width: 800px;
+    max-width: 1200;
     text-align: center;
   }
 
   .content {
     margin: 0 auto;
     padding: 2em 2em;
-    max-width: 800px;
+    max-width: 1400;
     margin-bottom: 50px;
     line-height: 1.6em;
   }
@@ -76,7 +80,7 @@ Add transition to containers so they can push in and out.
     text-align: center;
     padding: 0.5em 2em 0;
     border-bottom: 1px solid #eee;
-    max-height: 200px;
+    max-height: 400px;
   }
 
   .header h1 {
