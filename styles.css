@@ -12,12 +12,12 @@ body {
 }
 
 .logo-small {
-  padding: 2px
 }
 
 .logo-wrapper {
   margin: 2px
 }
+
 
 .banner {
   max-height: 400px
@@ -40,6 +40,7 @@ body {
     height: 100%;
     display: none;
     color: #FFF;
+    font-family: 'Comfortaa', cursive;
 }
 
 .logo-small:hover .after {
