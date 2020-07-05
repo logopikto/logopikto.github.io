@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.f182af49.chunk.css",
-    "main.js": "/static/js/main.0e364ab3.chunk.js",
-    "main.js.map": "/static/js/main.0e364ab3.chunk.js.map",
+    "main.js": "/static/js/main.bd264b5c.chunk.js",
+    "main.js.map": "/static/js/main.bd264b5c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76310c48.js",
     "runtime-main.js.map": "/static/js/runtime-main.76310c48.js.map",
     "static/css/2.bf0413c3.chunk.css": "/static/css/2.bf0413c3.chunk.css",
-    "static/js/2.890b565c.chunk.js": "/static/js/2.890b565c.chunk.js",
-    "static/js/2.890b565c.chunk.js.map": "/static/js/2.890b565c.chunk.js.map",
+    "static/js/2.26c81b84.chunk.js": "/static/js/2.26c81b84.chunk.js",
+    "static/js/2.26c81b84.chunk.js.map": "/static/js/2.26c81b84.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c059e0875c6129161bf254b1a791f5f8.js": "/precache-manifest.c059e0875c6129161bf254b1a791f5f8.js",
+    "precache-manifest.710e33e713fb8fbae3579ee0e159166f.js": "/precache-manifest.710e33e713fb8fbae3579ee0e159166f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bf0413c3.chunk.css.map": "/static/css/2.bf0413c3.chunk.css.map",
     "static/css/main.f182af49.chunk.css.map": "/static/css/main.f182af49.chunk.css.map",
-    "static/js/2.890b565c.chunk.js.LICENSE.txt": "/static/js/2.890b565c.chunk.js.LICENSE.txt",
+    "static/js/2.26c81b84.chunk.js.LICENSE.txt": "/static/js/2.26c81b84.chunk.js.LICENSE.txt",
     "static/media/comfortaa.css": "/static/media/Comfortaa-Regular.c2488bfd.ttf",
     "static/media/abouttheblue-800.png": "/static/media/abouttheblue-800.99a00326.png",
     "static/media/banner-600.png": "/static/media/banner-600.33acbc60.png",
     "static/media/banner.png": "/static/media/banner.561ade2c.png",
+    "static/media/bilbaocolour-800.png": "/static/media/bilbaocolour-800.a06780aa.png",
+    "static/media/bilbaomono-800.png": "/static/media/bilbaomono-800.09f20f6c.png",
     "static/media/dualcore-800.png": "/static/media/dualcore-800.4a1a8d73.png",
     "static/media/easiersaid-600.png": "/static/media/easiersaid-600.e209536a.png",
     "static/media/firstswifts-800.png": "/static/media/firstswifts-800.36d04ac0.png",
@@ -25,6 +27,7 @@
     "static/media/grounded-600.png": "/static/media/grounded-600.10a878ab.png",
     "static/media/homebodypilates-600.png": "/static/media/homebodypilates-600.67ed2930.png",
     "static/media/learndock-600.png": "/static/media/learndock-600.f9c58021.png",
+    "static/media/markgin-800.png": "/static/media/markgin-800.689c8eba.png",
     "static/media/ost-600.png": "/static/media/ost-600.ec455a93.png",
     "static/media/pavillionmayow-800.png": "/static/media/pavillionmayow-800.57496837.png",
     "static/media/pikalion-600.png": "/static/media/pikalion-600.3fe6d916.png",
@@ -40,8 +43,8 @@
   "entrypoints": [
     "static/js/runtime-main.76310c48.js",
     "static/css/2.bf0413c3.chunk.css",
-    "static/js/2.890b565c.chunk.js",
+    "static/js/2.26c81b84.chunk.js",
     "static/css/main.f182af49.chunk.css",
-    "static/js/main.0e364ab3.chunk.js"
+    "static/js/main.bd264b5c.chunk.js"
   ]
 }
