@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4af32674.chunk.css",
-    "main.js": "/static/js/main.cb1a08d5.chunk.js",
-    "main.js.map": "/static/js/main.cb1a08d5.chunk.js.map",
+    "main.js": "/static/js/main.7a621261.chunk.js",
+    "main.js.map": "/static/js/main.7a621261.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76310c48.js",
     "runtime-main.js.map": "/static/js/runtime-main.76310c48.js.map",
     "static/css/2.bf0413c3.chunk.css": "/static/css/2.bf0413c3.chunk.css",
-    "static/js/2.208df6f6.chunk.js": "/static/js/2.208df6f6.chunk.js",
-    "static/js/2.208df6f6.chunk.js.map": "/static/js/2.208df6f6.chunk.js.map",
+    "static/js/2.38068a38.chunk.js": "/static/js/2.38068a38.chunk.js",
+    "static/js/2.38068a38.chunk.js.map": "/static/js/2.38068a38.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.329403f216bf601b0ca5eddd40f6faea.js": "/precache-manifest.329403f216bf601b0ca5eddd40f6faea.js",
+    "precache-manifest.26842978cd47b44ce37178095531867f.js": "/precache-manifest.26842978cd47b44ce37178095531867f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bf0413c3.chunk.css.map": "/static/css/2.bf0413c3.chunk.css.map",
     "static/css/main.4af32674.chunk.css.map": "/static/css/main.4af32674.chunk.css.map",
-    "static/js/2.208df6f6.chunk.js.LICENSE.txt": "/static/js/2.208df6f6.chunk.js.LICENSE.txt",
+    "static/js/2.38068a38.chunk.js.LICENSE.txt": "/static/js/2.38068a38.chunk.js.LICENSE.txt",
     "static/media/comfortaa.css": "/static/media/Comfortaa-Regular.c2488bfd.ttf",
     "static/media/abouttheblue-800.png": "/static/media/abouttheblue-800.99a00326.png",
     "static/media/abouttheblue-set-1200.png": "/static/media/abouttheblue-set-1200.ac92247c.png",
@@ -27,6 +27,7 @@
     "static/media/bilbaomono-set-1200.png": "/static/media/bilbaomono-set-1200.e0abca04.png",
     "static/media/bilbaomono-set-800.png": "/static/media/bilbaomono-set-800.9e03b8ec.png",
     "static/media/coffecup-mini-set-1200.png": "/static/media/coffecup-mini-set-1200.f7c36d7f.png",
+    "static/media/coltrane-set-1200.png": "/static/media/coltrane-set-1200.6e07f745.png",
     "static/media/dualcore-800.png": "/static/media/dualcore-800.4a1a8d73.png",
     "static/media/easiersaid-800.png": "/static/media/easiersaid-800.82b106d1.png",
     "static/media/firstcoffee-set-1200.png": "/static/media/firstcoffee-set-1200.cb6c5b38.png",
@@ -57,15 +58,17 @@
     "static/media/runningmiss-800.png": "/static/media/runningmiss-800.6f8c10b2.png",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
     "static/media/solidsounds-800.png": "/static/media/solidsounds-800.f6be0e16.png",
+    "static/media/teacup-mini-set-1200.png": "/static/media/teacup-mini-set-1200.08d34dc4.png",
     "static/media/teaplease-set-1200.png": "/static/media/teaplease-set-1200.ad46006f.png",
+    "static/media/towerblocks-mini-set-1200.png": "/static/media/towerblocks-mini-set-1200.78647b9b.png",
     "static/media/towerblocksmayow-800.png": "/static/media/towerblocksmayow-800.a228ebe1.png",
     "static/media/towerblocksmayow-set-1200.png": "/static/media/towerblocksmayow-set-1200.2aeda94e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.76310c48.js",
     "static/css/2.bf0413c3.chunk.css",
-    "static/js/2.208df6f6.chunk.js",
+    "static/js/2.38068a38.chunk.js",
     "static/css/main.4af32674.chunk.css",
-    "static/js/main.cb1a08d5.chunk.js"
+    "static/js/main.7a621261.chunk.js"
   ]
 }
